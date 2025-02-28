@@ -2,10 +2,6 @@
 
 :+1: ***DcodeBlock is gamify your Project Development, Level up through Projects, Join Global Clans, and Emerge as No. 1 in Clan Wars to earn Grants & Boost your Career.*** 🤖🎮
 
-
-
-This is a React project built with Vite. Follow the steps below to set up and run the project locally.
-
 DcodeBlock Hackathon-Assignment!👨🏻‍💻
 
 Responsiveness: Adaptability across devices (desktop, tablet, mobile).📱💻🤳
@@ -31,8 +27,9 @@ Creative Animations: Effective use of animations to enhance user experience with
 ✅ Used modern frontend technologies (React.js preferred; Tailwind CSS, Framer Motion).
  
 
+### This is a React project built with Vite. Follow the steps below to set up and run the project locally.
 
-## Prerequisites
+## Requirement
 
 1. Make sure you have the following installed on your system: 
 - [Node.js](https://nodejs.org/) (Recommended: LTS version)
