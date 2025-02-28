@@ -54,7 +54,7 @@ To start the development server 🔧
 ```sh
 npm run dev ▶️ 🎨
 ```
-## Live Demo Link: A working link to the deployed on Vercel 
+## Live Demo Link: deployed on Vercel 
   https://dcodeblock-dusky.vercel.app/ ✅▶️
 
 By default, the app will be available at [http://localhost:5173](http://localhost:5173).
