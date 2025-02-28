@@ -30,8 +30,7 @@ Creative Animations: Effective use of animations to enhance user experience with
 
 ## Prerequisites
 
-Make sure you have the following installed on your system:
-
+1. Make sure you have the following installed on your system: 
 - [Node.js](https://nodejs.org/) (Recommended: LTS version)
 - npm (comes with Node.js)
 
