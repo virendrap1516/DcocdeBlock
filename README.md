@@ -1,5 +1,9 @@
 # DcodeBlock 🤖🛠️🕹️
 
+:+1: ***DcodeBlock is gamify your Project Development, Level up through Projects, Join Global Clans, and Emerge as No. 1 in Clan Wars to earn Grants & Boost your Career.*** 🤖🎮
+
+
+
 This is a React project built with Vite. Follow the steps below to set up and run the project locally.
 
 DcodeBlock Hackathon-Assignment!👨🏻‍💻
