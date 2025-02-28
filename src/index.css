@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Proxon';
+  src: url('/font/PROXON.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Proxon', sans-serif;
+}
+
+
+@keyframes infinite-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.scroll-animation {
+  display: flex;
+  animation: infinite-scroll 18s linear infinite;
+  width: 200%; /* Ensures smooth looping */
+}
