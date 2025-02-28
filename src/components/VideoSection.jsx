@@ -8,8 +8,7 @@ function VideoSection({ videoUrl, title }) {
                 allowFullScreen
                 loading="lazy"
                 aria-label={title}>
-                   
-               </iframe>
+                </iframe>
         </div>
     );
 }
