@@ -41,7 +41,9 @@ const Navbar = () => {
               fill="#D9D9D9"
               fillOpacity="0.05"
               stroke="#B026FF"
-            ></path>
+          >
+
+            </path>
             <path
               d="M2.35937 47.8035H0.35V52.65H5.54843V0.349998H0.35V35.6037L2.61222 37.9673L2.70937 38.0688V38.2093V47.4535V47.8035H2.35937Z"
               stroke="#B026FF"
