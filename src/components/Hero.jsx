@@ -131,11 +131,9 @@ const Hero = () => {
               strokeWidth="0.7"
             ></path>
           </svg>
-
-         
-          <span className="absolute inset-0 flex justify-center items-center font-semibold text-white text-sm md:text-base hover:drop-shadow-[0_0_8px_rgba(255,255,255,0.8)]">
+         <span className="absolute inset-0 flex justify-center items-center font-semibold text-white text-sm md:text-base hover:drop-shadow-[0_0_8px_rgba(255,255,255,0.8)]">
             Register Now
-          </span>
+         </span>
         </motion.a>
       </motion.div>
     </motion.div>
