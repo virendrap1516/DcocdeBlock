@@ -2,6 +2,8 @@
 
 :+1: ***DcodeBlock is gamify your Project Development, Level up through Projects, Join Global Clans, and Emerge as No. 1 in Clan Wars to earn Grants & Boost your Career.*** 🤖🎮
 
+https://www.loom.com/share/3dd11260df704ff582e289730c7263c8
+
 DcodeBlock Hackathon-Assignment!👨🏻‍💻
 
 Responsiveness: Adaptability across devices (desktop, tablet, mobile).📱💻🤳
